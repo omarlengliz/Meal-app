@@ -1,20 +1,16 @@
-# meal
+# Meal App
+A simple  meal  app  using Flutter 
+# How It Works
 
-A new Flutter project.
+ 1. Run cd   Meal-App  command on your terminal 
+ 2. Run  dart pub get command on your terminal  to get all dependencies  used  
+ 3. Run flutter run on your terminal 
 
-## Getting Started
+ # **Technologies**
 
-This project is a starting point for a Flutter application.
+>  Flutter
 
-A few resources to get you started if this is your first Flutter project:
+ 
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# Meal-app
-# Meal-app
-# Meal-app
-# Meal-app
+![image](https://drive.google.com/uc?export=view&id=1-QHdCCA1HQJEK8kwlm_trMoVYkjYgHIr)
+https://drive.google.com/file/d/1-QHdCCA1HQJEK8kwlm_trMoVYkjYgHIr/view?usp=sharing
